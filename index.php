@@ -66,10 +66,7 @@ div.noticias-sm a
     <a href="http://noticias.conthabil.net" target="_blank">Noticias</a>
     </h4>
     <marquee direction="up" scrolldelay="5" onmouseover="this.stop();" onmouseout="this.start();">
-    <div w3-include-html="noticias.php"></div>
-    <script>
-        w3IncludeHTML();
-    </script>
+        <?php require_once 'noticias.php';?>
     </marquee>
 </div>
 <div class="noticias noticias-sm col-md-3 hidden-md hidden-lg">
