@@ -98,11 +98,11 @@ div.noticias-sm a
                     <li>
                         <a class="page-scroll" href="#contact">Contato</a>
                     </li>
-					<li>
-                        <a class="page-scroll" href="http://noticias.conthabil.net">Noticias</a>
+                    <li>
+                        <a class="page-scroll" target="_blank" href="http://noticias.conthabil.net">Noticias&nbsp;&nbsp;<i class="fa fa-external-link" aria-hidden="true"></i></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="http://cliente.conthabil.net/">Espaço do Cliente</a>
+                        <a class="page-scroll" target="_blank" href="http://cliente.conthabil.net/">Espaço do Cliente&nbsp;&nbsp;<i class="fa fa-external-link" aria-hidden="true"></i></a>
                     </li>
                 </ul>
             </div>
