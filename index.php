@@ -265,6 +265,13 @@ div.noticias-sm a
 
     <!-- Theme JavaScript -->
     <script src="js/creative.min.js"></script>
+    
+    <?php
+    if(isset($_REQUEST['dotheharlemshake']) || isset($_REQUEST['harlem']))
+    {
+        echo '<script src="js/harlem.js"></script>';
+    }
+    ?>
 
 </body>
 
