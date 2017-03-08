@@ -1,3 +1,7 @@
+<?php
+//Return false para parar de exibir o comunicado
+return false;
+?>
 <style type="text/css">
 div.comunicado{
     z-index: 3;
