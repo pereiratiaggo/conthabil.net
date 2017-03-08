@@ -62,10 +62,7 @@ div.noticias-sm a
 
 <body id="page-top">
 <?php
-$comunicado = true;
-if($comunicado){
     require_once 'comunicado.php';
-}
 ?>
 <div class="noticias col-md-4 hidden-xs hidden-sm">
     <h4>
