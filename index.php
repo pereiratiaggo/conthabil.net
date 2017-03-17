@@ -101,6 +101,7 @@ div.noticias-sm a
                     <li>
                         <a class="page-scroll" href="#contact">Contato</a>
                     </li>
+                    <?php require_once 'download.php';?>
                     <li>
                         <a class="page-scroll" target="_blank" href="http://noticias.conthabil.net">Noticias&nbsp;&nbsp;<i class="fa fa-external-link" aria-hidden="true"></i></a>
                     </li>
@@ -125,7 +126,8 @@ div.noticias-sm a
 					Atendimento em toda a Curitiba e região metropolitana<br />
 					(41) 3072-0764 <br />
 					(41) 3072-0753 <br />
-					(41) 99801-9979
+                                        (41) 9 9801-9979 <br />
+                                        (41) 9 8509-0764
 				</p>
             </div>
         </div>
