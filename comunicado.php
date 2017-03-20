@@ -1,12 +1,12 @@
 <?php
 //Return false para parar de exibir o comunicado
-return false;
+//return false;
 ?>
 <style type="text/css">
 div.comunicado{
     z-index: 3;
-    position: fixed;
-    margin-top: 150px;
+    position: absolute;
+    margin-top: 75px;
     left: 50%;
     transform: translate(-50%);	
     max-width: 80%;	
@@ -17,17 +17,7 @@ div.comunicado{
 </style>
 <div class="alert alert-info alert-dimissible comunicado">
     <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-    <h2>Comunicado - Feriado dia 28/02/2017</h2>
-    <hr />
-    <p>
-        Informamos, que a Conthábil Assessoria não terá expediente nos dias 27/02 e 28/02/2017, devido ao feriado do Carnaval.<br />
-        <br />
-        Retornamos ao atendimento normal no dia 01/03/2017.<br />
-        <br />
-        Pedimos a gentileza de antecipar seus assuntos.<br />
-        <br />
-        Agradecemos à compreensão.<br />
-        <br />
-        Conthábil Assessoria.
-    </p>
+    <a href="download/2017-03-16_RELACAO_DE_DOCTOS_IRPF.pdf" target="_blank">
+        <img class="img-responsive" src="img/irpf.jpg" />
+    </a>
 </div>
