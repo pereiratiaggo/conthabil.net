@@ -1,6 +1,6 @@
 <?php
 //Return false para parar de exibir o comunicado
-//return false;
+return false;
 ?>
 <style type="text/css">
 div.comunicado{
