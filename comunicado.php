@@ -1,6 +1,6 @@
 <?php
 //Return false para parar de exibir o comunicado
-return false;
+//return false;
 ?>
 <style type="text/css">
 div.comunicado{
@@ -15,9 +15,17 @@ div.comunicado{
     padding: 20px;
 }
 </style>
-<div class="alert alert-info alert-dimissible comunicado">
+<div class="alert alert-warning alert-dimissible comunicado">
     <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-    <a href="download/2017-03-16_RELACAO_DE_DOCTOS_IRPF.pdf" target="_blank">
-        <img class="img-responsive" src="img/irpf.jpg" />
-    </a>
+    <h2>COMUNICADO<br />FERIADO DIA 15/06/2017</h2>
+    <hr />
+    <p>INFORMAMOS, QUE A <u>CONTHABIL ASSESSORIA</u> NÃO TERÁ EXPEDIENTE NOS DIAS 15/06 E 16/06/2017, DEVIDO AO FERIADO DE CORPUS CHRISTI.<br />
+        <br />
+        RETORNAMOS AO ATENDIMENTO NORMAL NO DIA 19/06/2017.<br />
+        <br />
+        PEDIMOS A GENTILEZA DE ANTECIPAR SEUS ASSUNTOS.<br />
+        <br />
+        AGRADECEMOS À COMPREENSÃO  
+        <br />
+    </p>
 </div>
