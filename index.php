@@ -126,7 +126,7 @@ div.noticias-sm a
 					Atendimento em toda a Curitiba e região metropolitana<br />
 					(41) 3072-0764 <br />
 					(41) 3072-0753 <br />
-                                        (41) 9 9801-9979 <br />
+                                        (41) 9 9801-9799 <br />
                                         (41) 9 8509-0764
 				</p>
             </div>
