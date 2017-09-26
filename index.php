@@ -106,7 +106,7 @@ div.noticias-sm a
                         <a class="page-scroll" target="_blank" href="http://noticias.conthabil.net">Noticias&nbsp;&nbsp;<i class="fa fa-external-link" aria-hidden="true"></i></a>
                     </li>
                     <li>
-                        <a class="page-scroll" target="_blank" href="http://cliente.conthabil.net/">Espaço do Cliente&nbsp;&nbsp;<i class="fa fa-external-link" aria-hidden="true"></i></a>
+                        <a class="page-scroll" target="_blank" href="https://conthabil.net/cliente/">Espaço do Cliente&nbsp;&nbsp;<i class="fa fa-external-link" aria-hidden="true"></i></a>
                     </li>
                 </ul>
             </div>
