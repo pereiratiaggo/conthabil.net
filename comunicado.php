@@ -1,6 +1,6 @@
 <?php
 //Return false para parar de exibir o comunicado
-return false;
+//return false;
 ?>
 <style type="text/css">
 div.comunicado{
@@ -17,15 +17,16 @@ div.comunicado{
 </style>
 <div class="alert alert-warning alert-dimissible comunicado">
     <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-    <h2>COMUNICADO<br />FERIADO DIA 15/06/2017</h2>
+    <h2>COMUNICADO - FERIADO DIA 12/10/2017</h2>
     <hr />
-    <p>INFORMAMOS, QUE A <u>CONTHABIL ASSESSORIA</u> NÃO TERÁ EXPEDIENTE NOS DIAS 15/06 E 16/06/2017, DEVIDO AO FERIADO DE CORPUS CHRISTI.<br />
+    <p>
+        INFORMAMOS, QUE A CONTHABIL ASSESSORIA NÃO TERÁ EXPEDIENTE NOS DIAS 12/10 E 13/10/2017, <br />
+        DEVIDO AO FERIADO DE NOSSA SENHORA APARECIDA.<br />
         <br />
-        RETORNAMOS AO ATENDIMENTO NORMAL NO DIA 19/06/2017.<br />
+        RETORNAMOS AO ATENDIMENTO NORMAL NO DIA 16/10/2017.<br />
         <br />
         PEDIMOS A GENTILEZA DE ANTECIPAR SEUS ASSUNTOS.<br />
         <br />
-        AGRADECEMOS À COMPREENSÃO  
-        <br />
+        AGRADECEMOS À COMPREENSÃO<br />
     </p>
 </div>
